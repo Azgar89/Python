@@ -16,3 +16,4 @@ def price_plus_tax(price: float, tax_rate: float) -> float:
 if __name__ == "__main__":
     print(f"{price_plus_tax(100, 0.25) = }")
     print(f"{price_plus_tax(125.50, 0.05) = }")
+Print(f"{prince_plus_tax(130.60.  0.08)  =}")
